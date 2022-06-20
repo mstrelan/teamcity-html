@@ -1,6 +1,6 @@
 # TeamCity HTML Printer
 
-Provides Teamcity integration with Drupal's HTML output printer.
+Provides support for Drupal HTML output printer to phpunit's teamcity result printer. 
 
 ## Overview
 
