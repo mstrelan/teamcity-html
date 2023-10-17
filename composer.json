@@ -2,7 +2,7 @@
   "name": "mstrelan/teamcity-html",
   "type": "library",
   "description": "Provides support for Drupal HTML output printer to phpunit's teamcity result printer.",
-  "keywords": [],
+  "keywords": ["testing"],
   "homepage": "https://github.com/mstrelan/teamcity-html",
   "license": "MIT",
   "authors": [
