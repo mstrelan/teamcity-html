@@ -4,9 +4,9 @@ Provides support for Drupal HTML output printer to phpunit's teamcity result pri
 
 ## PHPUnit 10
 
-This package is no longer required on PHPUnit 10. The 2.x version does nothing, but
+This package is no longer required on PHPUnit 10. The 1.1.x version does nothing, but
 prevents fatal errors when installed with PHPUnit 10. If using PHPUnit 9, please
-install the 1.x version.
+install the 1.0.x version.
 
 ## Overview
 
