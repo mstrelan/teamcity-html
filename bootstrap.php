@@ -1,7 +1,7 @@
 <?php
 
 // Detect if we're loaded by an actual run of phpunit
-if (!defined('PHPUNIT_COMPOSER_INSTALL') && !class_exists(\PHPUnit\TextUI\Command::class, false)) {
+if (!defined('PHPUNIT_COMPOSER_INSTALL') || !class_exists('\PHPUnit\TextUI\Command')) {
   return;
 }
 
